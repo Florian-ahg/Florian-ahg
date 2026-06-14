@@ -59,15 +59,11 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Florian-ahg&theme=react&hide_border=true&show_icons=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Florian-ahg&theme=react&hide_border=true&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Florian-ahg&theme=react&hide_border=true)
-
-</div>
+- 813 contributions in 2025 (including organization repositories)
+- Active participation in EPITECH team projects
+- Majority of work done in private / organization repositories
 
 ---
 

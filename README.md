@@ -8,21 +8,21 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 
 Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
-- 🧠 Backend robuste & APIs scalables
-- 🌐 Programmation réseau (TCP/IP, serveurs multi-clients)
-- ⚙️ Développement système en C / C++
-- 🎮 Architecture de moteurs de jeu (ECS, temps réel)
-- 🐳 DevOps & déploiement d’applications (Docker, Linux)
+- Backend robuste & APIs scalables
+- Programmation réseau (TCP/IP, serveurs multi-clients)
+- Développement système en C / C++
+- Architecture de moteurs de jeu (ECS, temps réel)
+- DevOps & déploiement d’applications (Docker, Linux)
 
 Étudiant à **EPITECH**, je travaille sur des projets complexes mêlant **architecture logicielle, performance et systèmes distribués**.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -89,6 +89,100 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 | **R-Type** | Jeu multijoueur type shooter | C++, ECS |
 | **RayTracer** | Moteur de rendu 3D | C++, Math, OOP |
 | **AREA** | Plateforme d’automatisation | Laravel, Nuxt.js |
+
+</div>
+
+---
+
+## 💼 Projets Réels & Expériences Produits
+
+<div align="center">
+
+### 🚀 Projets avec impact réel (Web & Entrepreneuriat)
+
+</div>
+
+---
+
+### 🏦 Djokwe — Épargne communautaire & discipline financière
+> Projet EIP (EPITECH – Entrepreneurial Innovation Project)
+
+Plateforme d’épargne collaborative permettant aux utilisateurs de gérer leur discipline financière via des objectifs d’épargne structurés.
+
+**Rôle :**
+- Conception du système backend
+- Architecture de l’application
+- Gestion des utilisateurs & logique métier
+
+**Focus techniques :**
+- Authentification & gestion de comptes
+- Systèmes d’épargne et objectifs financiers
+- Architecture web scalable
+
+---
+
+### 🏠 Hokwe — Plateforme de location immobilière
+
+Application web complète de mise en relation entre :
+- agences immobilières
+- propriétaires
+- locataires
+
+**Fonctionnalités principales :**
+- Recherche avancée de logements
+- Gestion des annonces immobilières
+- Système de publication pour propriétaires/agences
+- Interface utilisateur pour locataires
+
+**Focus techniques :**
+- CRUD complexe & base de données relationnelle
+- Système de filtres et recherche
+- Architecture full-stack
+
+---
+
+### 👕 123Basket — E-commerce de vêtements
+
+Plateforme e-commerce spécialisée dans la vente de tenues vestimentaires.
+
+**Fonctionnalités :**
+- Catalogue produits
+- Gestion panier & commandes
+- Interface utilisateur e-commerce
+- Gestion des stocks
+
+**Focus techniques :**
+- Système e-commerce complet
+- Gestion des produits & commandes
+- UI orientée conversion
+
+---
+
+### 🚗 WAYI — Courtage en assurance automobile
+
+Plateforme de mise en relation et de courtage en assurance auto.
+
+**Fonctionnalités :**
+- Comparaison d’offres d’assurance
+- Soumission de demandes de devis
+- Gestion des contrats utilisateurs
+- Système de courtage digital
+
+**Focus techniques :**
+- Logique métier assurance
+- Workflow de devis et contrats
+- Gestion des utilisateurs et partenaires
+
+---
+
+<div align="center">
+
+## 🔥 Résumé Impact
+
+✔ Projets orientés entreprise réelle  
+✔ Expérience produit & business logic  
+✔ Applications web complètes (Full-Stack)  
+✔ Travail sur des problématiques concrètes  
 
 </div>
 

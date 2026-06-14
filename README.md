@@ -59,7 +59,7 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 - 813 contributions in 2025 (including organization repositories)
 - Active participation in EPITECH team projects

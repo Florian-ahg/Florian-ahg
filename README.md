@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Florian Flow
+# Florian Flow
 
 <div align="center">
 
@@ -12,13 +12,13 @@
 
 Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
-- Backend robuste & APIs scalables
-- Programmation réseau (TCP/IP, serveurs multi-clients)
-- Développement système en C / C++
-- Architecture de moteurs de jeu (ECS, temps réel)
-- DevOps & déploiement d’applications (Docker, Linux)
+- Backend robuste et APIs scalables  
+- Programmation réseau (TCP/IP, serveurs multi-clients)  
+- Développement système en C / C++  
+- Architecture de moteurs de jeu (ECS, temps réel)  
+- DevOps et déploiement d’applications (Docker, Linux)  
 
-Étudiant à **EPITECH**, je travaille sur des projets complexes mêlant **architecture logicielle, performance et systèmes distribués**.
+Étudiant à **EPITECH**, je travaille sur des projets mêlant architecture logicielle, performance et systèmes distribués.
 
 ---
 
@@ -26,7 +26,7 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -35,9 +35,7 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-### 🌐 Backend & Web
+### Backend & Web
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -45,28 +43,23 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-
-### ⚙️ Systems & Networking
+### Systems & Networking
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Sockets](https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=for-the-badge)
 ![Multithreading](https://img.shields.io/badge/Concurrency-Multithreading-orange?style=for-the-badge)
 
----
-
-### 🐳 DevOps
+### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -78,161 +71,108 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
 ---
 
-## 🏆 Projets Phares
+## Projets Phares
 
-<div align="center">
-
-| 🚀 Projet | 🧠 Description | ⚙️ Tech |
-|----------|----------------|--------|
-| **Zappy** | Serveur réseau multijoueur temps réel | C, TCP/IP, Poll |
-| **MyFTP** | Serveur FTP conforme RFC959 | C, Sockets |
-| **R-Type** | Jeu multijoueur type shooter | C++, ECS |
-| **RayTracer** | Moteur de rendu 3D | C++, Math, OOP |
-| **AREA** | Plateforme d’automatisation | Laravel, Nuxt.js |
-
-</div>
-
+| Projet      | Description                                  | Tech |
+|-------------|----------------------------------------------|------|
+| Zappy       | Serveur multijoueur temps réel               | C, TCP/IP, Poll |
+| R-Type      | Jeu multijoueur type shooter                 | C++, ECS |
+| RayTracer   | Moteur de rendu 3D                           | C++, Math, OOP |
+| AREA        | Plateforme d’automatisation                  | Laravel, Nuxt.js |
+| my_torch    | Neural Network + Chess Analyzer              | C / C++, ML from scratch |
+| Gomoku AI   | Bot IA pour jeu de Gomoku (5-in-a-row)       | C / C++, Minimax / AI |
 ---
 
-## 💼 Projets Réels & Expériences Produits
+## Projets Réels & Expériences Produits
 
-<div align="center">
+### Djokwe — Épargne communautaire (EIP EPITECH)
 
-### 🚀 Projets avec impact réel (Web & Entrepreneuriat)
-
-</div>
-
----
-
-### 🏦 Djokwe — Épargne communautaire & discipline financière
-> Projet EIP (EPITECH – Entrepreneurial Innovation Project)
-
-Plateforme d’épargne collaborative permettant aux utilisateurs de gérer leur discipline financière via des objectifs d’épargne structurés.
+Plateforme d’épargne collaborative orientée discipline financière.
 
 **Rôle :**
-- Conception du système backend
-- Architecture de l’application
-- Gestion des utilisateurs & logique métier
+- Backend & architecture
+- Logique métier
 
-**Focus techniques :**
-- Authentification & gestion de comptes
-- Systèmes d’épargne et objectifs financiers
-- Architecture web scalable
-
----
-
-### 🏠 Hokwe — Plateforme de location immobilière
-
-Application web complète de mise en relation entre :
-- agences immobilières
-- propriétaires
-- locataires
-
-**Fonctionnalités principales :**
-- Recherche avancée de logements
-- Gestion des annonces immobilières
-- Système de publication pour propriétaires/agences
-- Interface utilisateur pour locataires
-
-**Focus techniques :**
-- CRUD complexe & base de données relationnelle
-- Système de filtres et recherche
-- Architecture full-stack
+**Technologies :**
+- Laravel
+- API REST
+- Authentification
+- Base de données
 
 ---
 
-### 👕 123Basket — E-commerce de vêtements
+### Hokwe — Plateforme immobilière
 
-Plateforme e-commerce spécialisée dans la vente de tenues vestimentaires.
+Plateforme de mise en relation entre agences, propriétaires et locataires.
+
+**Fonctionnalités :**
+- Recherche de logements
+- Publication d’annonces
+- Gestion des utilisateurs
+
+---
+
+### 123Basket — E-commerce
+
+Plateforme de vente de vêtements.
 
 **Fonctionnalités :**
 - Catalogue produits
-- Gestion panier & commandes
-- Interface utilisateur e-commerce
+- Panier et commandes
 - Gestion des stocks
 
-**Focus techniques :**
-- Système e-commerce complet
-- Gestion des produits & commandes
-- UI orientée conversion
-
 ---
 
-### 🚗 WAYI — Courtage en assurance automobile
+### WAYI — Courtage en assurance auto
 
-Plateforme de mise en relation et de courtage en assurance auto.
+Plateforme de comparaison et gestion d’assurances véhicules.
 
 **Fonctionnalités :**
-- Comparaison d’offres d’assurance
-- Soumission de demandes de devis
-- Gestion des contrats utilisateurs
-- Système de courtage digital
-
-**Focus techniques :**
-- Logique métier assurance
-- Workflow de devis et contrats
-- Gestion des utilisateurs et partenaires
+- Devis et offres
+- Gestion des contrats
+- Workflow assurance
 
 ---
 
+## Compétences clés
+
+- Architecture logicielle (OOP, SOLID, Design Patterns)
+- Programmation réseau (TCP/IP, sockets)
+- Systèmes concurrents (threads, poll)
+- Backend scalable et API design
+- Développement système (C / C++)
+- Linux & environnement serveur
+
+---
+
+## Différenciation
+
+- Double compétence Web / Systems Programming  
+- Expérience en serveurs réseau complexes  
+- Développement moteur de jeu  
+- Forte base en architecture logicielle  
+- Connaissance DevOps  
+
+---
+
+## Contact
+
 <div align="center">
 
-## 🔥 Résumé Impact
-
-✔ Projets orientés entreprise réelle  
-✔ Expérience produit & business logic  
-✔ Applications web complètes (Full-Stack)  
-✔ Travail sur des problématiques concrètes  
+[LinkedIn](https://linkedin.com) · [GitHub](https://github.com/Florian-ahg) · Email
 
 </div>
 
 ---
 
-## 🎯 Compétences clés
+## Citation
 
-- 🧩 Architecture logicielle (OOP, Design Patterns, SOLID)
-- 🌍 Programmation réseau bas niveau (TCP/IP, sockets)
-- ⚡ Systèmes concurrents (threads, poll, async server)
-- 🎮 Développement moteur de jeu (ECS, temps réel)
-- 🧱 Backend scalable & API design
-- 🐧 Linux & environnement système
-
----
-
-## 📈 Ce qui me différencie
-
-- 🔥 Double compétence **Web + Systems Programming**
-- ⚙️ Expérience en **serveurs réseau complexes**
-- 🎮 Développement de **moteurs de jeu**
-- 🧠 Forte base en **architecture logicielle**
-- 🐳 Connaissances **DevOps modernes**
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Florian-ahg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 💬 Citation
-
-<div align="center">
-
-> "Software engineering is not about code, it's about designing systems that survive reality."
-
-</div>
+> Software engineering is about building systems that survive reality.
 
 ---
 
 <div align="center">
 
-⭐ Merci d’avoir visité mon profil ⭐
+Merci d’avoir visité mon profil
 
 </div>

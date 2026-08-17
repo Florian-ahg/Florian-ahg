@@ -8,17 +8,17 @@
 
 ---
 
-## À propos de moi
+## About Me
 
-Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
+**Full-Stack Developer & Systems Engineer**, specialized in:
 
-- Backend robuste et APIs scalables  
-- Programmation réseau (TCP/IP, serveurs multi-clients)  
-- Développement système en C / C++  
-- Architecture de moteurs de jeu (ECS, temps réel)  
-- DevOps et déploiement d’applications (Docker, Linux)  
+* Robust backend systems and scalable APIs
+* Network programming (TCP/IP, multi-client servers)
+* Systems programming in C / C++
+* Game engine architecture (ECS, real-time systems)
+* DevOps and application deployment (Docker, Linux)
 
-Étudiant à **EPITECH**, je travaille sur des projets mêlant architecture logicielle, performance et systèmes distribués.
+As an **EPITECH student**, I work on projects combining software architecture, performance, and distributed systems.
 
 ---
 
@@ -28,32 +28,32 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Backend & Web
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge\&logo=nuxt.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### Systems & Networking
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=for-the-badge)
 ![Multithreading](https://img.shields.io/badge/Concurrency-Multithreading-orange?style=for-the-badge)
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
@@ -61,93 +61,99 @@ Développeur **Full-Stack & Systems Engineer**, spécialisé dans :
 
 ## GitHub Activity
 
-- 813 contributions in 2025 (including organization repositories)
-- Active participation in EPITECH team projects
-- Majority of work done in private / organization repositories
+* 813 contributions in 2025 (including organization repositories)
+* Active participation in EPITECH team projects
+* Most of my work is done in private or organization repositories
 
 ---
 
-## Projets Phares
+## Featured Projects
 
-| Projet      | Description                                  | Tech |
-|-------------|----------------------------------------------|------|
-| Zappy       | Serveur multijoueur temps réel               | C, TCP/IP, Poll |
-| R-Type      | Jeu multijoueur type shooter                 | C++, ECS |
-| RayTracer   | Moteur de rendu 3D                           | C++, Math, OOP |
-| AREA        | Plateforme d’automatisation                  | Laravel, Nuxt.js |
-| my_torch    | Neural Network + Chess Analyzer              | C / C++, ML from scratch |
-| Gomoku AI   | Bot IA pour jeu de Gomoku (5-in-a-row)       | C / C++, Minimax / AI |
----
-
-## Projets Réels & Expériences Produits
-
-### Djokwe — Épargne communautaire (EIP EPITECH)
-
-Plateforme d’épargne collaborative orientée discipline financière.
-
-**Rôle :**
-- Backend & architecture
-- Logique métier
-
-**Technologies :**
-- Laravel
-- API REST
-- Authentification
-- Base de données
+| Project       | Description                       | Tech                     |
+| ------------- | --------------------------------- | ------------------------ |
+| **Zappy**     | Real-time multiplayer game server | C, TCP/IP, Poll          |
+| **R-Type**    | Multiplayer shooter game          | C++, ECS                 |
+| **RayTracer** | 3D rendering engine               | C++, Math, OOP           |
+| **AREA**      | Automation platform               | Laravel, Nuxt.js         |
+| **my_torch**  | Neural network + chess analyzer   | C / C++, ML from scratch |
+| **Gomoku AI** | AI bot for Gomoku (five-in-a-row) | C / C++, Minimax / AI    |
 
 ---
 
-### Hokwe — Plateforme immobilière
+## Real-World Projects & Product Experience
 
-Plateforme de mise en relation entre agences, propriétaires et locataires.
+### Djokwe — Community Savings Platform (EPITECH EIP)
 
-**Fonctionnalités :**
-- Recherche de logements
-- Publication d’annonces
-- Gestion des utilisateurs
+A collaborative savings platform designed to encourage financial discipline.
 
----
+**Role:**
 
-### 123Basket — E-commerce
+* Backend development & architecture
+* Business logic
 
-Plateforme de vente de vêtements.
+**Technologies:**
 
-**Fonctionnalités :**
-- Catalogue produits
-- Panier et commandes
-- Gestion des stocks
+* Laravel
+* REST API
+* Authentication
+* Database management
 
 ---
 
-### WAYI — Courtage en assurance auto
+### Hokwe — Real Estate Platform
 
-Plateforme de comparaison et gestion d’assurances véhicules.
+A platform connecting real estate agencies, property owners, and tenants.
 
-**Fonctionnalités :**
-- Devis et offres
-- Gestion des contrats
-- Workflow assurance
+**Features:**
 
----
-
-## Compétences clés
-
-- Architecture logicielle (OOP, SOLID, Design Patterns)
-- Programmation réseau (TCP/IP, sockets)
-- Systèmes concurrents (threads, poll)
-- Backend scalable et API design
-- Développement système (C / C++)
-- Linux & environnement serveur
+* Property search
+* Property listings
+* User management
 
 ---
 
-## Différenciation
+### 123Basket — E-Commerce Platform
 
-- Double compétence Web / Systems Programming  
-- Expérience en serveurs réseau complexes  
-- Développement moteur de jeu  
-- Forte base en architecture logicielle  
-- Connaissance DevOps  
+An online clothing store.
+
+**Features:**
+
+* Product catalog
+* Shopping cart and orders
+* Inventory management
+
+---
+
+### WAYI — Car Insurance Brokerage Platform
+
+A platform for comparing and managing vehicle insurance offers.
+
+**Features:**
+
+* Quotes and insurance offers
+* Contract management
+* Insurance workflows
+
+---
+
+## Key Skills
+
+* Software architecture (OOP, SOLID, Design Patterns)
+* Network programming (TCP/IP, sockets)
+* Concurrent systems (threads, poll)
+* Scalable backend systems & API design
+* Systems programming (C / C++)
+* Linux & server environments
+
+---
+
+## What Sets Me Apart
+
+* Strong combination of Web Development & Systems Programming
+* Experience building complex network servers
+* Game engine development experience
+* Strong foundation in software architecture
+* DevOps knowledge and experience
 
 ---
 
@@ -161,7 +167,7 @@ Plateforme de comparaison et gestion d’assurances véhicules.
 
 ---
 
-## Citation
+## Quote
 
 > Software engineering is about building systems that survive reality.
 
@@ -169,6 +175,6 @@ Plateforme de comparaison et gestion d’assurances véhicules.
 
 <div align="center">
 
-Merci d’avoir visité mon profil
+Thanks for visiting my profile!
 
 </div>
